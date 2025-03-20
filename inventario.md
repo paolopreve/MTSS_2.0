@@ -4,4 +4,6 @@
 processori
 schede_madri
 
+periferiche
+
 Elettronica Padovana
